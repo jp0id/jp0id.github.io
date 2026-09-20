@@ -6,8 +6,8 @@
 
 ## 联系我
 
-* telegram: [J.P](https://t.me/pm_jp_bot)
-* twitter: [J.P](https://twitter.com/jp0id)
+* telegram: [J.P.](https://t.me/pm_jp_bot)
+* twitter: [J.P.](https://twitter.com/jp0id)
 * email：<jp@8void.com>
 
 ## 本站
